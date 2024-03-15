@@ -21,7 +21,7 @@
   }
   
   .calc_screen {
-    color: var(--color-bg);
+    color: var(--color-text);
     font-size: 40px;
     font-family: "Courier New", Courier, monospace;
     text-align: right;
